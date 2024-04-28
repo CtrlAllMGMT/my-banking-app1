@@ -1,2 +1,2 @@
 # my-banking-app
- books replacement
+ odoo replacement
